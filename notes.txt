@@ -8,15 +8,18 @@ Nouns
   Baba/Ruby
   Keke
   Empty
+  Ice
 
 Adjectives
   You
   Kill
   Float
   Sink
+  Hot
   Melt
   Push
   Stop ?
+  Move
 
 Some 2x2 word ideas
 
@@ -45,14 +48,21 @@ Some 1x1 symbol ideas;
   Ruby @
   Keke &
   Empty
+  Wall +
+  Ice /
 
 Some 1x1 keyword ideas
-  Rock B (boulder?)
+  Rock r (boulder?)
   Skull S
-  Water W
+  Water w
   Lava L
   Grass G
   Flag F
   Baba/Ruby R
-  Keke K
+  Keke k
   Empty E
+  Wall w
+  IS I or =
+  WIN $
+
+
