@@ -1,0 +1,68 @@
+Nouns
+  Rock
+  Skull
+  Water
+  Lava
+  Grass
+  Flag
+  Baba/Ruby
+  Keke
+  Empty
+  Ice
+
+Adjectives
+  You
+  Kill
+  Float
+  Sink
+  Hot
+  Melt
+  Push
+  Stop ?
+  Move
+
+Some 2x2 word ideas
+
+  Ro  La  Ru
+  ck  va  by
+
+  Sk  Gr  Ke
+  ul  as  ke
+
+  Wa  Fl  Em
+  tr  ag  ty
+
+  I*
+  *S
+
+Thought: Make the descriptors lowercase and the objects uppercase?
+
+Some 1x1 symbol ideas;
+
+  Rock 0
+  Skull %
+  Water ~
+  Lava *
+  Grass #
+  Flag !
+  Ruby @
+  Keke &
+  Empty
+  Wall +
+  Ice /
+
+Some 1x1 keyword ideas
+  Rock r (boulder?)
+  Skull S
+  Water w
+  Lava L
+  Grass G
+  Flag F
+  Baba/Ruby R
+  Keke k
+  Empty E
+  Wall w
+  IS I or =
+  WIN $
+
+
